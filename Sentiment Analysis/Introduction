@@ -1,1 +1,6 @@
 Introduction
+For this project , the data that I am using is from this website:
+          https://www.cs.jhu.edu/~mdredze/datasets/sentiment/index2.html
+          
+This is a project that are using Sentiment analysis and Logistic Regression model to fine 
+the most wrong positive review and the wrong negative review. 
