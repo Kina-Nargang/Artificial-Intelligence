@@ -16,3 +16,14 @@ Use ANN model to predict if the customer with the following informations will le
  So should we say goodbye to that customer ?
   
  Dataset : Churn_Modelling.csv
+ 
+ Part1: 
+    Get train dataset and test dataset. Convert categorical data.
+ 
+ Part2: 
+    Uesd GridSearch to find the best parameters and best accuracy.
+        best parameters: {'epochs': 500, 'batch_size': 48, 'optimizer': 'rmsprop'}
+        best accuracy: 0.850625
+ 
+ Part3:
+    Build ANN model with the best parameters and predict.
