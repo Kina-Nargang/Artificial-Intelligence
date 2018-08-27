@@ -27,3 +27,9 @@ Use ANN model to predict if the customer with the following informations will le
  
  Part3:
     Build ANN model with the best parameters and predict.
+    
+ Confusion Matrix:
+    array([[1538,   57],
+       [ 253,  152]], dtype=int64)
+ 
+ Prediction output : False (Means customer will not leave the bank)
