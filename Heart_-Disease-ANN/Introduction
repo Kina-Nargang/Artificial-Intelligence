@@ -1,0 +1,7 @@
+Introduction:
+
+Dataset:
+  https://archive.ics.uci.edu/ml/datasets/heart+Disease
+  
+Goal:
+  Use ANN model to predict heart disease.
