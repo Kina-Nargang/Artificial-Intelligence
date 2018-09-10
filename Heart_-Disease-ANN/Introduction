@@ -5,3 +5,21 @@ Dataset:
   
 Goal:
   Use ANN model to predict heart disease.
+
+Part1: 
+    Get train dataset and test dataset. Fix the missing data.
+ 
+ Part2: 
+    Uesd GridSearch to find the best parameters and best accuracy.
+        best parameters: {'epochs': 10, 'optimizer': 'rmsprop', 'batch_size': 10}
+        best accuracy: 0.578512396694
+ 
+ Part3:
+    Build ANN model with the best parameters and predict.
+    
+ Confusion Matrix:
+    array([[35,  0,  0,  0,  0],
+       [13,  0,  0,  0,  0],
+       [ 6,  0,  0,  0,  0],
+       [ 4,  0,  0,  0,  0],
+       [ 3,  0,  0,  0,  0]], dtype=int64)
